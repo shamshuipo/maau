@@ -1,0 +1,7 @@
+{
+  "name": "Maauonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
